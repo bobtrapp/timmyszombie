@@ -5,13 +5,18 @@
 
 
 :root{
-    --primary_dark: #64A560;
+    --primary_dark: #B5E61D;
     --primary_light: #160E07;
     --secondary_dark: #040D0D;
     --secondary_light: #CA7678;
     --readable_light: #dddddd;
     --link_color: #ffffff;
 }
+
+/* 
+#64A560
+#B5E61D
+*/
 
 body{
     background-color: var(--primary_light);
@@ -29,11 +34,12 @@ body a{
     Header Elements
 */
 
-#jimmysLogo{
+#timmysLogo{
     float: left;
     vertical-align: middle;
     padding-left: 1em;
     padding-right: 1em;
+    border-radius: 15px;
 }
 
 header h1{
