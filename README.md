@@ -23,4 +23,4 @@ CSS project. At the time, NetBeans was the primary environment being used on
 other projects, so it seemed reasonable to stick with a single platform.
 
 As a result of using NetBeans, the site starts in the folder
-JimmysZombieAbatementService -> public_html -> index.html
+TimmysZombieAbatementService -> public_html -> index.html
