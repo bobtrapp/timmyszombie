@@ -7,7 +7,7 @@ DESCRIPTION:
 ********************************************************************************
 
 DEFINE THE CLIENT
-Jimmy's Zombie Abatement Services is a zombie prevention and removal service 
+Timmy's Zombie Abatement Services is a zombie prevention and removal service 
 accepting clients from the surrounding counties (but willing to travel further 
 for a fee).
 They want their website to accomplish the following goals:
@@ -23,11 +23,11 @@ DEFINE THE TARGET AUDIENCE
 
 Primary Visitor
 -	Description: The primary visitor is a property owner who may have a zombie
-	infestation and requires Jimmy's services.
+	infestation and requires Timmy's services.
 -	Visitor Goals
 	-	Understand whether they have a likely infestation
-	-	Contract with Jimmy for a consultation or abatement
--	Jimmy's Goals
+	-	Contract with Timmy for a consultation or abatement
+-	Timmy's Goals
 	-	Give the visitor confidence that there is an infestation and that it 
 		must be taken seriously and handled professionally
 	-	Get the visitor to fill out the "Request a Consultation" form
@@ -40,7 +40,7 @@ Secondary Visitor
 		how to stop them
 	-	The visitor may want to become an amateur zombie expert
 	-	The visitor may want zombie-related merchandise
--	Jimmy's Goals
+-	Timmy's Goals
 	-	Get the visitor to sign up for the email news letter
 	-	Get the visitor to connect on social media
 	-	Sell promotional merchandise to the visitor 
@@ -51,10 +51,10 @@ Tertiary Visitor
 -	Visitor Goals
 	-	Learn more about zombies
 	-	Learn more about zombie abatement
--	Jimmy's Goals
+-	Timmy's Goals
 	-	Get the visitor to sign up for the email news letter
 	-	Get the visitor to connect on social media
-	-	Convince the visitor to make referrals to Jimmy or cite Jimmy in 
+	-	Convince the visitor to make referrals to Timmy or cite Timmy in 
 		related media
 
 ********************************************************************************
@@ -149,8 +149,8 @@ Home
 		-	Stories (one page per story)
 	-	What to Do When Confronted
 -	About Us
-	-	History of Jimmy's Zombie Abatement Services
-	-	About Jimmy
+	-	History of Timmy's Zombie Abatement Services
+	-	About Timmy
 		-	History
 		-	Credentials
 	-	Our Employees
@@ -158,7 +158,7 @@ Home
 	-	Contact
 		-	Request a Consultation
 		-	Join our Mailing List
-		-	Contact Jimmy
+		-	Contact Timmy
 	-	Press Releases
 -	Our Successes
 	-	Successful Abatement (one per service - client info redacted)
@@ -209,10 +209,10 @@ Landing Page (Home or About Zombies) --> Our Successes --> Any of the
 
 ** Tertiary Visitor
 Landing Page (Home or About Zombies) --> Any of the "about zombies" 
-sub-pages --> About Jimmy -> Credentials --> Contact Jimmy
+sub-pages --> About Timmy -> Credentials --> Contact Timmy
 
 Landing Page (Home or About Zombies) --> Our Successes --> Any of the 
-"successes" sub-pages --> About Jimmy -> Credentials --> Contact Jimmy
+"successes" sub-pages --> About Timmy -> Credentials --> Contact Timmy
 
 
 ********************************************************************************
