@@ -3,14 +3,13 @@
     Author     : Bob Trapp
 */
 
-
-:root{
-    --primary_dark: #B5E61D;
-    --primary_light: #160E07;
-    --secondary_dark: #040D0D;
-    --secondary_light: #CA7678;
-    --readable_light: #dddddd;
-    --link_color: #ffffff;
+:root {
+  --primary_dark: #b5e61d;
+  --primary_light: #160e07;
+  --secondary_dark: #040d0d;
+  --secondary_light: #ca7678;
+  --readable_light: #dddddd;
+  --link_color: #ffffff;
 }
 
 /* 
@@ -18,168 +17,163 @@
 #B5E61D
 */
 
-body{
-    background-color: var(--primary_light);
-    color: var(--primary_dark);
-    width: 80%;
-    margin: auto;
+body {
+  background-image: url("../images/background.png");
+  background-color: var(--primary_light);
+  color: var(--primary_dark);
+  width: 80%;
+  margin: auto;
 }
 
-body a{
-    color: var(--link_color);
+body a {
+  color: var(--link_color);
 }
-
 
 /*
     Header Elements
 */
 
-#timmysLogo{
-    float: left;
-    vertical-align: middle;
-    padding-left: 1em;
-    padding-right: 1em;
-    border-radius: 15px;
+#timmysLogo {
+  float: left;
+  vertical-align: middle;
+  padding-left: 1em;
+  padding-right: 1em;
+  border-radius: 15px;
 }
 
-header h1{
-    float: left;
-    vertical-align: middle;
-    font-style: italic;
-    text-shadow: 1px 1px var(--secondary_light);
+header h1 {
+  float: left;
+  vertical-align: middle;
+  font-style: italic;
+  text-shadow: 1px 1px var(--secondary_light);
 }
 
 /*
     Navigation Elements
 */
 #nav_menu {
-    clear: both;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    background-color: var(--primary_light);
-    color: var(--primary_dark);
+  clear: both;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: var(--primary_light);
+  color: var(--primary_dark);
 }
 
 #nav_menu a {
-    display: block;
-    min-width: 15%;
-    padding-top: 0.25em;
-    padding-bottom: 00.25em;
-    text-align:  center;
-    border: 1px solid gold;
+  display: block;
+  min-width: 15%;
+  padding-top: 0.25em;
+  padding-bottom: 00.25em;
+  text-align: center;
+  border: 1px solid gold;
 }
 
-#nav_menu a:hover{
-    border: 1px solid red;
+#nav_menu a:hover {
+  border: 1px solid red;
 }
 
 /*
     From page 305 of the Murach text.  This is for SlickNav
 */
-#mobile_menu{
-    display: none;
+#mobile_menu {
+  display: none;
 }
-
-
-
 
 /*
     Main Content Elements
 
 */
 
-main{
-    clear: both;
-    margin-top: 2em;
-    margin-bottom: 2em;
+main {
+  clear: both;
+  margin-top: 2em;
+  margin-bottom: 2em;
 }
 
-h2{
-    font-style: italic;
+h2 {
+  font-style: italic;
 }
 
-.pageRow{
-    clear:both;
-    margin-bottom: 2em;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
+.pageRow {
+  clear: both;
+  margin-bottom: 2em;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
 }
 
-#welcomeSection{
-    display: block;
-    width: 45%;
-    height: complex;
-    float: left;
-    padding: 1em;
-    background-color: var(--readable_light);
-    color: var(--secondary_dark);
-    border-radius: 5px;
+#welcomeSection {
+  display: block;
+  width: 45%;
+  height: complex;
+  float: left;
+  padding: 1em;
+  background-color: var(--readable_light);
+  color: var(--secondary_dark);
+  border-radius: 5px;
 }
 
-#buttonDiv{
-    width: 45%;
-    float: right;
-    padding: 1em;
-    text-align: center;
+#buttonDiv {
+  width: 45%;
+  float: right;
+  padding: 1em;
+  text-align: center;
 }
 
-#buttonDiv button{
-    width: 90%;
-    margin: auto;
-    margin-bottom: 0.5em;
-    border: 3px ridge gold;
-    border-radius: 10px;
+#buttonDiv button {
+  width: 90%;
+  margin: auto;
+  margin-bottom: 0.5em;
+  border: 3px ridge gold;
+  border-radius: 10px;
 }
 
-#buttonDiv button:hover{
-    border-style: groove;
+#buttonDiv button:hover {
+  border-style: groove;
 }
 
-#buttonDiv button:active{
-    border-style: solid;
+#buttonDiv button:active {
+  border-style: solid;
 }
 
-
-
-#aboutZombiesIndexSection{
-    float: left;
-    width: 45%;
+#aboutZombiesIndexSection {
+  float: left;
+  width: 45%;
 }
 
-#ourSuccessesIndexSection{
-    float: right;
-    width: 45%;
+#ourSuccessesIndexSection {
+  float: right;
+  width: 45%;
 }
 
 /*
     Footer Elements
 */
 
-footer{
-    clear: both;
-    padding: 1em;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
+footer {
+  clear: both;
+  padding: 1em;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
 }
 
-.footerColumn{
-    padding: 1em;
-    float: left;
-    text-align: center;
+.footerColumn {
+  padding: 1em;
+  float: left;
+  text-align: center;
 }
 
-#footerColumnLeft{
-    text-align: left;
+#footerColumnLeft {
+  text-align: left;
 }
 
-#footerColumnLeft a img{
-    max-width: 30px;
-    vertical-align: middle;
-    margin-bottom: 0.5em;
-    margin-right: 0.5em
+#footerColumnLeft a img {
+  max-width: 30px;
+  vertical-align: middle;
+  margin-bottom: 0.5em;
+  margin-right: 0.5em;
 }
 
 /*
@@ -187,58 +181,53 @@ footer{
 
 */
 
+@media only screen and (max-width: 767px) {
+  #jimmysLogo {
+    max-width: 50px;
+  }
 
+  #nav_menu {
+    display: none;
+  }
+  #mobile_menu {
+    display: block;
+  }
 
-@media only screen and (max-width: 767px){
-    
-    #jimmysLogo{
-        max-width: 50px;
-    }
-    
-    #nav_menu{
-        display: none;
-    }
-    #mobile_menu{
-        display: block;
-    }
-    
-    .slicknav_nav a{
-        color: red;
-    }
-    
-    .pageRow{
-        flex-direction: column;
-    }
-    
-    
-    #welcomeSection{
-        width: 90%;
-        margin: auto;
-    }
-    
-    #buttonDiv{
-        width: 90%;
-        margin: auto;
-    }
-    
-    #aboutZombiesIndexSection{
-        width: 90%;
-        margin: auto;
-    }
-    
-    #ourSuccessesIndexSection{
-        width: 90%;
-        margin: auto;
-        float: left;
-    }
-    
-    footer{
-        flex-direction: column;
-    }
-    
-    .footerColumn{
-        width: 90%;
-        margin: auto;
-    }
+  .slicknav_nav a {
+    color: red;
+  }
+
+  .pageRow {
+    flex-direction: column;
+  }
+
+  #welcomeSection {
+    width: 90%;
+    margin: auto;
+  }
+
+  #buttonDiv {
+    width: 90%;
+    margin: auto;
+  }
+
+  #aboutZombiesIndexSection {
+    width: 90%;
+    margin: auto;
+  }
+
+  #ourSuccessesIndexSection {
+    width: 90%;
+    margin: auto;
+    float: left;
+  }
+
+  footer {
+    flex-direction: column;
+  }
+
+  .footerColumn {
+    width: 90%;
+    margin: auto;
+  }
 }
-
