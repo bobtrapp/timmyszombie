@@ -66,7 +66,11 @@ the visitor. The idea is to make a more concrete, relatable definition
 of the target visitor. This can help communication between the client
 and the designer.
 
-LINKS - https://www.smartinsights.com/marketplace-analysis/customer-analysis/web-design-personas/ - https://blog.hubspot.com/blog/tabid/6307/bid/32434/how-to-design-a-persona-centric-website-experience.aspx - https://moz.com/ugc/how-to-connect-with-your-visitors-using-personas
+LINKS 
+
+- [https://www.smartinsights.com/marketplace-analysis/customer-analysis/web-design-personas/](https://www.smartinsights.com/marketplace-analysis/customer-analysis/web-design-personas/) 
+- [https://blog.hubspot.com/blog/tabid/6307/bid/32434/how-to-design-a-persona-centric-website-experience.aspx](https://blog.hubspot.com/blog/tabid/6307/bid/32434/how-to-design-a-persona-centric-website-experience.aspx) 
+- [https://moz.com/ugc/how-to-connect-with-your-visitors-using-personas](https://moz.com/ugc/how-to-connect-with-your-visitors-using-personas)
 
 NOTE: In the following personas, you will probably notice a rural, Midwestern
 quality.
