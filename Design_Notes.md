@@ -162,7 +162,8 @@ drawn as a directed graph connecting the pages of the paths.
 
 Landing Page (Home or Do I Have Zombies?) -->
 Telltale Signs --> Request a Consultation
-Landing Page (Home or Do I Have Zombies?) -->
+
+Landing Page (Home or Do I Have Zombies?) --> 
 Telltale Signs --> Other possibilities --> Request a Consultation
 
 ### Secondary Visitor
