@@ -79,13 +79,13 @@ quality.
 
 Hank is a 65 year-old farmer with a dilapidated, old farm. He lives alone since his wife passed ten years prior and his children all moved away. His dog has been barking at strange things in the collapsing corn cribs near the old pioneer cemetery. If it hadn't been for the cemetery, Hank would have suspected aliens.
 
-### Primary Visitor 1 - Mary
+### Primary Visitor 2 - Mary
 
 Mary owns a four-plex apartment building on the outskirts of a small town. She has only had two tenants in the past few years. They've been complaining of something in the basement, and one has complained of a bite that won't heal. The basement has a door to the outside and the lock keeps getting broken. Mary doesn't want the police involved for fear of citations for code violations, but is too afraid to visit the basement herself.
 
 ### Secondary Visitor 1 - Jake
 
-Jake is fifteen years-old, living in a house in a small town with his parents, two siblings, and their dog. He is in the ninth grade and only hangs out a couple of other boys who are not particularly popular. He and his friends are fascinated with the undead in popular fiction and often imagine themselves as the heroes in battles against evil. As the member of his group with the best Internet access, he has the responsibility to do research on their behalf.
+Jake is fifteen years-old, living in a house in a small town with his parents, two siblings, and their dog. He is in the ninth grade and only hangs out with a couple of other boys who are not particularly popular. He and his friends are fascinated with the undead in popular fiction and often imagine themselves as the heroes in battles against evil. As the member of his group with the best Internet access, he has the responsibility to do research on their behalf.
 
 ### Secondary Visitor 2 - Sarah
 
@@ -93,7 +93,7 @@ Sarah is a sixteen-year-old girl in a larger town. She lives with her mother and
 
 ### Tertiary Visitor 1 - Dr. Willy
 
-The doctor is a paranormal investigator with a popular podcast and couple of published books. He is always on the lookout for evidence of paranormal activities and interesting people he can interview. He or one of his assistants (usually young women who are far too interested in him, at least until they get tired of his attitude toward them) scour the Internet for possible interviewees.
+The doctor is a paranormal investigator with a popular podcast and couple of published books. He is always on the lookout for evidence of paranormal activities and interesting people he can interview. He or one of his assistants (usually young women who are far too interested in him, at least until they get tired of his attitude) scour the Internet for possible interviewees.
 
 ### Tertiary Visitor 2 - Woodland Norman
 
