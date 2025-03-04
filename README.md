@@ -11,7 +11,7 @@ This project is for demonstration and play use only.
 4. Used as an example when demonstrating the creation of personas when designing
    websites and applications.
 5. Became a short story
-   [Timmy's Zombie Abatement Service](http://bobtrapp.info/TimmysZombieAbatementService).
+   [Timmy's Zombie Abatement Service](https://bobtrapp.info/writing/timmy's_zombie_abatement_service).
 6. Extra chapters have been added to the story, gradually making the story
    novel-length.
 7. The files were moved to github to make them easier to find.
