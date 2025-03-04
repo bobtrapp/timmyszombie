@@ -23,6 +23,7 @@ body {
   color: var(--primary_dark);
   width: 80%;
   margin: auto;
+  position: relative;
 }
 
 body a {
@@ -33,16 +34,24 @@ body a {
     Header Elements
 */
 
+header {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+
+
 #timmysLogo {
-  float: left;
+  grid-column-start: 1;
+  grid-column-end: 2;
   vertical-align: middle;
   padding-left: 1em;
   padding-right: 1em;
-  border-radius: 15px;
+  border-radius: 2em;
 }
 
 header h1 {
-  float: left;
+  grid-column-start: 2;
+  grid-column-end: 10;
   vertical-align: middle;
   font-style: italic;
   text-shadow: 1px 1px var(--secondary_light);
@@ -182,15 +191,32 @@ footer {
 */
 
 @media only screen and (max-width: 767px) {
-  #jimmysLogo {
-    max-width: 50px;
+
+  header {
+    display: block;
+    position:relative;
+  }
+
+  #timmysLogo {
+    max-width: 25px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+  }
+
+  header h1 {
+    display: inline;
   }
 
   #nav_menu {
     display: none;
   }
+
   #mobile_menu {
     display: block;
+    position: sticky;
+    left: 0;
+    top: 0;
   }
 
   .slicknav_nav a {
